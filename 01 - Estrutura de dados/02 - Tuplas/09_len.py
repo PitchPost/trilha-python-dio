@@ -4,6 +4,7 @@ linguagens = (
     "c",
     "java",
     "csharp",
+    "dos",
 )
 
-print(len(linguagens))  # 5
+print(len(linguagens))  # 6
